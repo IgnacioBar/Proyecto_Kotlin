@@ -62,8 +62,6 @@ class MainActivity : AppCompatActivity() {
         when (item.itemId) {
             R.id.nav_item5 -> {
                 signOut()
-                //sdas
-
             }
         }
         return super.onOptionsItemSelected(item)
